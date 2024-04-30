@@ -1,10 +1,10 @@
 # Elastic Wave Propagation
-Computational codes to model seismic wave propagation using Godunov-type finite volume methods and staggered finite differences.
-The reference solutions used were calculated using a finite difference method of order 20 using the Python package **Devito** (https://www.devitoproject.org/)
-In all tests presented, a ricker source was used.
+Computational codes to model seismic wave propagation using Godunov-type finite volume methods and staggered finite differences.\\
+The reference solutions used were calculated using a finite difference method of order 20 using the Python package **Devito** (https://www.devitoproject.org/).\\
+In all tests presented, a ricker source was used.\\
 
-Test 1 - Heterogeneous parallel velocity model.
-Configurations:
+Test 1 - Heterogeneous parallel velocity model.\\
+Configurations:\\
   Final time (s)= 1000
   x = [0, 3000]
   y = [0, 1000]
