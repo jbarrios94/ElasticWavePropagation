@@ -15,13 +15,15 @@ Configurations:
   
   y = [0, 1000]
   
-  dx (m)= 10.0 -> ref_factor = 0
+  dx (m)= 
+          10.0 -> ref_factor = 0
   
           5.0 -> ref_factor = 1
           
           2.5 -> ref_factor = 2
           
-  dy (m)= 10.0 -> ref_factor = 0
+  dy (m)= 
+          10.0 -> ref_factor = 0
   
           5.0 -> ref_factor = 1
           
