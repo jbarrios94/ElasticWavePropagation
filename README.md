@@ -29,7 +29,7 @@ Configurations:
   CFL = 0.50, 
   frequency (MGhz)= 0.005 (Used in the ricker source).
 
-Test 3 - Marmousi velocity profile.
+**Test 3 - Marmousi velocity profile.**
 
 Configurations:
 
